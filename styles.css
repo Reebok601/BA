@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+    background-color: blueviolet;
+}
+
+.btn-again{
+    margin-top: 1rem;
+    height: 2.5rem;
+}
+.range{
+    margin-top: 1.5rem;
+}
+.head{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: beige;
+}
+
+
+.number{
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 10%;
+    background-color: grey;
+     width: 20%;
+     margin-left: 40%;
+   
+    
+}
+ 
+.left{
+    display: flex;
+    flex-direction: column;
+    width: 15%;
+    
+    
+}
+
+.right{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin-left: 65%;
+    font-size: 2rem;
+    
+}
+
+.guess{
+    border: none;
+    height: 1.5rem;
+    
+    margin-bottom: 20px;
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+    font-size: 24px; 
+    border-radius: 8px;
+    margin-left: 40px;
+
+   
+    
+
+}
+
+.btn-check{
+    border: none;
+    padding: 1rem;
+    font-size: 24px;
+    border-radius: 6px;
+    margin-left: 40px;
+}
+
+.both-side{
+    display: flex;
+    margin-top: 15%;
+}
+
+
